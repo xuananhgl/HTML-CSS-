@@ -6,7 +6,7 @@
     }
     
     @font-face{
-     src: url(/front/Poppins-Medium.ttf);
+     src: url(./front/Poppins-Medium.ttf);
      font-family: Poppins;
       }
     body{
@@ -1165,7 +1165,7 @@
             font-family: Poppins;
         }
         @font-face{
-         src: url(/front/Poppins-Medium.ttf);
+         src: url(./front/Poppins-Medium.ttf);
          font-family: Poppins;
         }
         #main{
